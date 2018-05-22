@@ -1,0 +1,10 @@
+モデル名：MacBook Pro (13-inch, Mid 2012)
+型番：MD101J/A
+ディスプレイ：13.3inch LEDバックライト液晶
+対応解像度：1280x800px
+ＯＳ：macOS High Sierra 10.13.4
+プロセッサ：Intel Corei5-3210M 2Core 2.5GHz (TB 3.10GHz)
+グラフィックス：Intel HD Graphics 4000 650MHz 1.7GB
+メモリ：Samsung DDR3-1600 8GBx2 1.5-1.35V
+ストレージ１：SANDISK SATAⅢ SSD 480GB
+ストレージ２：SANDISK SATAⅢ SSD 960GB
